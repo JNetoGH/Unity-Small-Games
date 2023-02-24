@@ -1,0 +1,2052 @@
+fileFormatVersion: 2
+guid: bcac92230f4e0274c93ef2121fa5433e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8495888819220072237
+    second: Armor Sets Dead Cristal With Flames_0
+  - first:
+      213: 2364210874778732235
+    second: Armor Sets Dead Cristal With Flames_1
+  - first:
+      213: 8926298429876348324
+    second: Armor Sets Dead Cristal With Flames_2
+  - first:
+      213: -3884522605052653739
+    second: Armor Sets Dead Cristal With Flames_3
+  - first:
+      213: 6546407231691060424
+    second: Armor Sets Dead Cristal With Flames_4
+  - first:
+      213: 8248531894304052830
+    second: Armor Sets Dead Cristal With Flames_5
+  - first:
+      213: -4862536653420619653
+    second: Armor Sets Dead Cristal With Flames_6
+  - first:
+      213: -657213040875862950
+    second: Armor Sets Dead Cristal With Flames_7
+  - first:
+      213: -5561996217353411618
+    second: Armor Sets Dead Cristal With Flames_8
+  - first:
+      213: 993028138217451630
+    second: Armor Sets Dead Cristal With Flames_9
+  - first:
+      213: 4446819001811034681
+    second: Armor Sets Dead Cristal With Flames_10
+  - first:
+      213: 350916603947996120
+    second: Armor Sets Dead Cristal With Flames_11
+  - first:
+      213: -9187880268551849302
+    second: Armor Sets Dead Cristal With Flames_12
+  - first:
+      213: -6728060797513621862
+    second: Armor Sets Dead Cristal With Flames_13
+  - first:
+      213: 3248126084654691783
+    second: Armor Sets Dead Cristal With Flames_14
+  - first:
+      213: -7322313026687819416
+    second: Armor Sets Dead Cristal With Flames_15
+  - first:
+      213: 3750158380234104287
+    second: Armor Sets Dead Cristal With Flames_16
+  - first:
+      213: -5653247348156042385
+    second: Armor Sets Dead Cristal With Flames_17
+  - first:
+      213: 5668173911867439838
+    second: Armor Sets Dead Cristal With Flames_18
+  - first:
+      213: -2222121089987428356
+    second: Armor Sets Dead Cristal With Flames_19
+  - first:
+      213: -5780150231777341351
+    second: Armor Sets Dead Cristal With Flames_20
+  - first:
+      213: 7199012975527710870
+    second: Armor Sets Dead Cristal With Flames_21
+  - first:
+      213: 8280494423654852130
+    second: Armor Sets Dead Cristal With Flames_22
+  - first:
+      213: -5245372093002806040
+    second: Armor Sets Dead Cristal With Flames_23
+  - first:
+      213: -8423408547440338812
+    second: Armor Sets Dead Cristal With Flames_24
+  - first:
+      213: 1675933986492854992
+    second: Armor Sets Dead Cristal With Flames_25
+  - first:
+      213: 4952136525020861719
+    second: Armor Sets Dead Cristal With Flames_26
+  - first:
+      213: -5640370836733982404
+    second: Armor Sets Dead Cristal With Flames_27
+  - first:
+      213: -3513756343399362439
+    second: Armor Sets Dead Cristal With Flames_28
+  - first:
+      213: -9019163780499565692
+    second: Armor Sets Dead Cristal With Flames_29
+  - first:
+      213: 4160031698116202198
+    second: Armor Sets Dead Cristal With Flames_30
+  - first:
+      213: 1921928139554006384
+    second: Armor Sets Dead Cristal With Flames_31
+  - first:
+      213: 7817488376861779357
+    second: Armor Sets Dead Cristal With Flames_32
+  - first:
+      213: -8613569904359874179
+    second: Armor Sets Dead Cristal With Flames_33
+  - first:
+      213: 6038995131976269145
+    second: Armor Sets Dead Cristal With Flames_34
+  - first:
+      213: 287106525232830904
+    second: Armor Sets Dead Cristal With Flames_35
+  - first:
+      213: -8430220394178033701
+    second: Armor Sets Dead Cristal With Flames_36
+  - first:
+      213: 1537354530493109966
+    second: Armor Sets Dead Cristal With Flames_37
+  - first:
+      213: -5405535874868796819
+    second: Armor Sets Dead Cristal With Flames_38
+  - first:
+      213: -2855276172345943053
+    second: Armor Sets Dead Cristal With Flames_39
+  - first:
+      213: 4804977303009693137
+    second: Armor Sets Dead Cristal With Flames_40
+  - first:
+      213: -6532968577318593948
+    second: Armor Sets Dead Cristal With Flames_41
+  - first:
+      213: 3952075191823576123
+    second: Armor Sets Dead Cristal With Flames_42
+  - first:
+      213: -4846808343734650863
+    second: Armor Sets Dead Cristal With Flames_43
+  - first:
+      213: 5345129244898539208
+    second: Armor Sets Dead Cristal With Flames_44
+  - first:
+      213: 8279940043782526477
+    second: Armor Sets Dead Cristal With Flames_45
+  - first:
+      213: -7806691435167039177
+    second: Armor Sets Dead Cristal With Flames_46
+  - first:
+      213: -7376859075764399233
+    second: Armor Sets Dead Cristal With Flames_47
+  - first:
+      213: 4661702513289165528
+    second: Armor Sets Dead Cristal With Flames_48
+  - first:
+      213: 6014094438339633638
+    second: Armor Sets Dead Cristal With Flames_49
+  - first:
+      213: 3272854912844233340
+    second: Armor Sets Dead Cristal With Flames_50
+  - first:
+      213: -7996685204556834780
+    second: Armor Sets Dead Cristal With Flames_51
+  - first:
+      213: 6054638832524474864
+    second: Armor Sets Dead Cristal With Flames_52
+  - first:
+      213: 3413572015212983865
+    second: Armor Sets Dead Cristal With Flames_53
+  - first:
+      213: -4464784422607486032
+    second: Armor Sets Dead Cristal With Flames_54
+  - first:
+      213: 5897457480768507313
+    second: Armor Sets Dead Cristal With Flames_55
+  - first:
+      213: 793089734293920038
+    second: Armor Sets Dead Cristal With Flames_56
+  - first:
+      213: 8710429149834963181
+    second: Armor Sets Dead Cristal With Flames_57
+  - first:
+      213: 4306989834498931535
+    second: Armor Sets Dead Cristal With Flames_58
+  - first:
+      213: 6397135330239412335
+    second: Armor Sets Dead Cristal With Flames_59
+  - first:
+      213: -2140341061926779040
+    second: Armor Sets Dead Cristal With Flames_60
+  - first:
+      213: -7249494879516672081
+    second: Armor Sets Dead Cristal With Flames_61
+  - first:
+      213: 1058566193381410300
+    second: Armor Sets Dead Cristal With Flames_62
+  - first:
+      213: -4830071928465751498
+    second: Armor Sets Dead Cristal With Flames_63
+  - first:
+      213: 6140626128318236394
+    second: Armor Sets Dead Cristal With Flames_64
+  - first:
+      213: -6928746414715922279
+    second: Armor Sets Dead Cristal With Flames_65
+  - first:
+      213: 8814928939291408838
+    second: Armor Sets Dead Cristal With Flames_66
+  - first:
+      213: -5664681590659689366
+    second: Armor Sets Dead Cristal With Flames_67
+  - first:
+      213: 4114949155271600410
+    second: Armor Sets Dead Cristal With Flames_68
+  - first:
+      213: -4684446267979315205
+    second: Armor Sets Dead Cristal With Flames_69
+  - first:
+      213: -216524485873937365
+    second: Armor Sets Dead Cristal With Flames_70
+  - first:
+      213: -2800113468146184062
+    second: Armor Sets Dead Cristal With Flames_71
+  - first:
+      213: -5138741099262289327
+    second: Armor Sets Dead Cristal With Flames_72
+  - first:
+      213: 4742022984116974961
+    second: Armor Sets Dead Cristal With Flames_73
+  - first:
+      213: -7338190297185654712
+    second: Armor Sets Dead Cristal With Flames_74
+  - first:
+      213: 3226146195446852159
+    second: Armor Sets Dead Cristal With Flames_75
+  - first:
+      213: -5408567666859179949
+    second: Armor Sets Dead Cristal With Flames_76
+  - first:
+      213: 7158647423581799390
+    second: Armor Sets Dead Cristal With Flames_77
+  - first:
+      213: -5245339717215147021
+    second: Armor Sets Dead Cristal With Flames_78
+  - first:
+      213: -7069812395282735762
+    second: Armor Sets Dead Cristal With Flames_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 22
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 93
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2743d03ed577e570800000000000000
+      internalID: 8495888819220072237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 93
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc64d45b34d5fc020800000000000000
+      internalID: 2364210874778732235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 93
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a528efd02590eb70800000000000000
+      internalID: 8926298429876348324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 93
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f8cd39547671ac0800000000000000
+      internalID: -3884522605052653739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 93
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c47eff51b289da50800000000000000
+      internalID: 6546407231691060424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 93
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5619762e0ca87270800000000000000
+      internalID: 8248531894304052830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 93
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b781c813dacc48cb0800000000000000
+      internalID: -4862536653420619653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 93
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5407dca83c11e6f0800000000000000
+      internalID: -657213040875862950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 93
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed36596b8e1dfc2b0800000000000000
+      internalID: -5561996217353411618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 93
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e603b6694d1f7cd00800000000000000
+      internalID: 993028138217451630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_10
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 93
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9326767625646bd30800000000000000
+      internalID: 4446819001811034681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 93
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d35b14cac4bed400800000000000000
+      internalID: 350916603947996120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_12
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 93
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa752243971e7080800000000000000
+      internalID: -9187880268551849302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 93
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e18f8f95021a2a0800000000000000
+      internalID: -6728060797513621862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 93
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5f585f679a31d20800000000000000
+      internalID: 3248126084654691783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_15
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 93
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861ae06f81be16a90800000000000000
+      internalID: -7322313026687819416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_16
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 93
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddde497d2d3b0430800000000000000
+      internalID: 3750158380234104287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_17
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 93
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f637db13d71ab81b0800000000000000
+      internalID: -5653247348156042385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_18
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 93
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edabefd342669ae40800000000000000
+      internalID: 5668173911867439838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_19
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 93
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff356754a07921e0800000000000000
+      internalID: -2222121089987428356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 63
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950158e1df7c8cfa0800000000000000
+      internalID: -5780150231777341351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 63
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690d1c3c82808e360800000000000000
+      internalID: 7199012975527710870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 63
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226ec8e6ec93ae270800000000000000
+      internalID: 8280494423654852130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 63
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec02d16fd1b437b0800000000000000
+      internalID: -5245372093002806040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 63
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48854d32e8a0a1b80800000000000000
+      internalID: -8423408547440338812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_25
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 63
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d239ebc41d124710800000000000000
+      internalID: 1675933986492854992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 63
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7151b159ee589b440800000000000000
+      internalID: 4952136525020861719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_27
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 63
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c398ff2ab9069b1b0800000000000000
+      internalID: -5640370836733982404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 63
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970d76ce831ac3fc0800000000000000
+      internalID: -3513756343399362439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_29
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 63
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4831144c35e75d280800000000000000
+      internalID: -9019163780499565692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_30
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 63
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dec494e9c66bb930800000000000000
+      internalID: 4160031698116202198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 63
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075a1f9c57f0caa10800000000000000
+      internalID: 1921928139554006384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_32
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 63
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95679a824c4d7c60800000000000000
+      internalID: 7817488376861779357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 63
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7162a20fc3767880800000000000000
+      internalID: -8613569904359874179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_34
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 63
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d32c99312dec350800000000000000
+      internalID: 6038995131976269145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_35
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 63
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b913311dd10cf300800000000000000
+      internalID: 287106525232830904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_36
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 63
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7c3ca7737d10b80800000000000000
+      internalID: -8430220394178033701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_37
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 63
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec611ebdcc7c55510800000000000000
+      internalID: 1537354530493109966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_38
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 63
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62a0d5f2cdabf4b0800000000000000
+      internalID: -5405535874868796819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_39
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 63
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbdeabf2750068d0800000000000000
+      internalID: -2855276172345943053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 33
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd05b33665bea240800000000000000
+      internalID: 4804977303009693137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_41
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 33
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ad22c21bb3655a0800000000000000
+      internalID: -6532968577318593948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_42
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 33
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c274ea27798d630800000000000000
+      internalID: 3952075191823576123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_43
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 33
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118fb49ad7dacbcb0800000000000000
+      internalID: -4846808343734650863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_44
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 33
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6bab08ab6bd2a40800000000000000
+      internalID: 5345129244898539208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_45
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 33
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06903fc99148e270800000000000000
+      internalID: 8279940043782526477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 33
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731c8c7508f09a390800000000000000
+      internalID: -7806691435167039177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_47
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 33
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7352fe31c120a990800000000000000
+      internalID: -7376859075764399233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_48
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 33
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da7521bcb1b1b040800000000000000
+      internalID: 4661702513289165528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_49
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 33
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1e2e2170b567350800000000000000
+      internalID: 6014094438339633638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_50
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 33
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7af871f3348b6d20800000000000000
+      internalID: 3272854912844233340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_51
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 33
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42894c9bc21160190800000000000000
+      internalID: -7996685204556834780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_52
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 33
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f938e770f5660450800000000000000
+      internalID: 6054638832524474864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_53
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 33
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936fbf579a17f5f20800000000000000
+      internalID: 3413572015212983865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_54
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 33
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b388cb1936e902c0800000000000000
+      internalID: -4464784422607486032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_55
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 33
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd4d2b255af7d150800000000000000
+      internalID: 5897457480768507313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_56
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 33
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629199f49ee910b00800000000000000
+      internalID: 793089734293920038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_57
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 33
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8ee157929a1e870800000000000000
+      internalID: 8710429149834963181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_58
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 33
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bf6806f6085cb30800000000000000
+      internalID: 4306989834498931535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_59
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 33
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68750b70b037c850800000000000000
+      internalID: 6397135330239412335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0670ca9e42bfb42e0800000000000000
+      internalID: -2140341061926779040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_61
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf356901de946b90800000000000000
+      internalID: -7249494879516672081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_62
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 3
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf58cb72858c0be00800000000000000
+      internalID: 1058566193381410300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_63
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63286300c2328fcb0800000000000000
+      internalID: -4830071928465751498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_64
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae604e4ede2e73550800000000000000
+      internalID: 6140626128318236394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_65
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 3
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998981c88d528df90800000000000000
+      internalID: -6928746414715922279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_66
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c976c2ba2be45a70800000000000000
+      internalID: 8814928939291408838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_67
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64d8072b120361b0800000000000000
+      internalID: -5664681590659689366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_68
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19e1cc647c3b1930800000000000000
+      internalID: 4114949155271600410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_69
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 3
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf740b340f08dfeb0800000000000000
+      internalID: -4684446267979315205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_70
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 3
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b245f469020cefcf0800000000000000
+      internalID: -216524485873937365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_71
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2801c58e2aff329d0800000000000000
+      internalID: -2800113468146184062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_72
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 3
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a55c942368fa8b0800000000000000
+      internalID: -5138741099262289327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_73
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 3
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175b70d97cc0fc140800000000000000
+      internalID: 4742022984116974961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_74
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 3
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848e70addc2892a90800000000000000
+      internalID: -7338190297185654712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_75
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 3
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a66153fd295cc20800000000000000
+      internalID: 3226146195446852159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_76
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 3
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3500231ec58e0f4b0800000000000000
+      internalID: -5408567666859179949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_77
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 3
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3cbd257ef985360800000000000000
+      internalID: 7158647423581799390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_78
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 3
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fba425715fc437b0800000000000000
+      internalID: -5245339717215147021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Armor Sets Dead Cristal With Flames_79
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 3
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dd48e751bf2ed90800000000000000
+      internalID: -7069812395282735762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
